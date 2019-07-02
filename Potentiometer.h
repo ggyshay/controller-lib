@@ -1,3 +1,7 @@
+#define POT_RESOLUTION 4
+#define POT_TIMEOUT 300
+#include "arduino.h"
+
 class Potentiometer {
   public:
     Potentiometer(byte control);

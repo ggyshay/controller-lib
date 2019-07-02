@@ -34,7 +34,7 @@ Midi messages are composed of:
 - channel: (the midi channel)
 - value: (the controller new value, not defined for messages other than controllerChange)
 
-##TODO
+## TODO
 - update MIDI
 - adapt potentiometer
 - test

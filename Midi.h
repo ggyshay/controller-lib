@@ -21,8 +21,5 @@ class MIDIInterface {
 
     }
     MidiMessage getMessage() {
-        Serial.read();
-        MidiMessage m;
-        m.type = 
     }
 }
